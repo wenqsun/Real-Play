@@ -4,7 +4,7 @@
 
 Official implementation of RealPlay: From Virtual Games to Real-World Play
 
-Wenqiang Sun*, Fangyun Wei*, Jinjing Zhao, Xi Chen,, Zilong Chen, Hongyang Zhang, Jun Zhang, Yan Lu.
+Wenqiang Sun*, Fangyun Wei*, Jinjing Zhao, Xi Chen, Zilong Chen, Hongyang Zhang, Jun Zhang, Yan Lu.
 
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
